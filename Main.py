@@ -1,3 +1,4 @@
 print "Hello World"
 print "Welcome"
-print "RevertChanges"
+print "school"
+print "english,hindi,tamil"
